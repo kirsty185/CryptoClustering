@@ -12,7 +12,7 @@ Before You Begin
 ## Prepare the Data
 * Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 * Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the indexfor the new DataFrame.
-![![Alt text](](image-2.png))
+
 
 ## Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to fi nd the best value for k using the following steps:
